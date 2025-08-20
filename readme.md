@@ -1,7 +1,3 @@
-Got it. Here’s a proper **GitHub README.md** draft for your Titanic Kaggle project. No emojis, no fluff, just clean documentation style.
-
----
-
 # Titanic - Machine Learning from Disaster
 
 This repository contains an end-to-end machine learning project on the Kaggle Titanic dataset.
